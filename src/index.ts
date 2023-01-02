@@ -1,5 +1,5 @@
 import type { App } from "vue";
-const is_mobile_func = require("is-mobile");
+import is_mobile_func from "is-mobile";
 
 export default {
   install: function(app: App, options: any) : void {
