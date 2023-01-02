@@ -1,3 +1,4 @@
+is update to kikihwan 
 This package adds mobile detection in vue.js 3 projects.
 
 Installation:
